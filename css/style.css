@@ -1,0 +1,27 @@
+body {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	color:#747704;
+}
+.logo {
+	margin-top: 10px;
+	height: 150px;
+}
+.text-big {
+	font-size: 60px;
+}
+.text-thin {
+	font-weight: 100;
+}
+.text-muted {
+	color:#BCBBBB;
+}
+.header-line {
+	height:4px;
+	background-color:#BCBBBB;
+	margin-top: 10px; 
+}
+.img-project {
+	width: 100%;
+	position: center;
+} 

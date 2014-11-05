@@ -24,4 +24,5 @@ body {
 .img-project {
 	width: 100%;
 	position: center;
+	cursor: pointer;
 } 
